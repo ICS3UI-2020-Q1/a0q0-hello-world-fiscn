@@ -1,6 +1,6 @@
 /**
- *
- * @author 
+ * This program displays "hello world" to the screen
+ * @author Neil Fischer
  */
 public class Main {
 
@@ -9,7 +9,8 @@ public class Main {
    * @param args the command line arguments
    */
   public static void main(String[] args) {
-    // TODO code application logic here
+    // Prints Hello World to a new line! 
+    System.out.println("Hello World!");
     
   }
 }
